@@ -1,10 +1,11 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Jorge Escobar
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on Monday September 4, 2023.
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Continued the curriculum intro for The Odin Project and reviewed the previous lessons unti I was able to catch up to the lesson where I left before.
 
-### R1D2
+### R1D2 Set up my first git repository and explored more phases of the posting from the terminal 
+
